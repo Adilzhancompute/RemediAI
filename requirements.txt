@@ -1,0 +1,7 @@
+streamlit
+xgboost
+optuna
+pandas
+numpy
+scikit-learn
+altair
